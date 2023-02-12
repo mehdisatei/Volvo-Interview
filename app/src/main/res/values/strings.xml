@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Volvo</string>
+    <string name="top_bar_title">Weather App</string>
+    <string name="top_bar_body">Volvo interview</string>
+    <string name="max_temp">H: %d</string>
+    <string name="min_temp">L: %d</string>
+</resources>
